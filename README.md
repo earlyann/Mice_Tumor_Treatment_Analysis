@@ -1,6 +1,6 @@
 ## Project Overview:
 
-In this analysis project, I investigated a dataset that tracked the efficacy of various drug regimens on mice with tumors. The goal of this project was to gain insights into the effectiveness of different treatments and to identify trends and correlations between different variables in the data.
+In this analysis, I investigated a dataset that tracked the efficacy of various drug regimens on mice with tumors. The goal of this project was to gain insights into the effectiveness of different treatments and to identify trends and correlations between different variables in the data.
 
 Methods and Technologies Used:
 The project involved a variety of data preparation, cleaning, and analysis techniques. These included:
@@ -17,3 +17,5 @@ I also created box plots comparing the final tumor volume data for four of the t
 
 ### Outputs and Conclusion:
 The final output of the project was a Jupyter notebook containing all of the code, visualizations, and written analysis. Through the analysis, I identified several interesting insights, including the effectiveness of certain drug regimens, the impact of weight on tumor size, and the differences in performance between male and female mice. These insights could be used to inform future research and treatment options for cancer patients.
+
+Authored by: Lacey Morgan
